@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Bebida Energizante MONSTER Zero",
+    "image": "./img/bebida monster.webp",
+    "extraInfo": "lata 1 ud. (473 ml)",
+    "price": 6.50
+  },
+  {
+    "id": 2,
+    "name": "Huevos Orgánicos PACHACAMAC",
+    "image": "./img/huevos.webp",
+    "extraInfo": "Caja 12 ud.",
+    "price": 16.90
+  },
+  {
+    "id": 3,
+    "name": "Jamón Crocante CASA EUROPA",
+    "image": "./img/jamon casa europa.webp",
+    "extraInfo": "Precio x 0.1 kg",
+    "price": 7.29
+  },
+  {
+    "id": 4,
+    "name": "Jamón Inglés OTTO KUNS",
+    "image": "./img/jamon ingles.webp",
+    "extraInfo": "Paquete 10 ud. (200 g)",
+    "price": 15.90
+  },
+  {
+    "id": 5,
+    "name": "Pan Francés Precocido BELL'S",
+    "image": "./img/pan frances.webp",
+    "extraInfo": "Bolsa 5 ud.",
+    "price": 3.79
+  },
+  {
+    "id": 6,
+    "name": "Yogurt Griego Natural LAIVE",
+    "image": "./img/yogurt griego.webp",
+    "extraInfo": "Botella 1 ud. (800 g)",
+    "price": 10.49
+  },
+  {
+    "id": 7,
+    "name": "Yogurt Griego VAKIMU",
+    "image": "./img/yogurt vakimu.webp",
+    "extraInfo": "Balde 1 ud. (1000 g)",
+    "price": 16.70
+  },
+  {
+    "id": 8,
+    "name": "Leche UHT GLORIA sin Lactosa",
+    "image": "./img/leche gloria.webp",
+    "extraInfo": "Pack 3 ud. (3 L)",
+    "price": 15.90
+  }
+]
